@@ -52,6 +52,10 @@ SSD         | Samsung MZVLB256HAHQ-000H1 (PM981) | ❌
 ## macOS Update History
 
 - ✅ macOS Ventura 13.3.1
+  
+<p align="center">
+  <img src="https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/blob/main/Resources/macOS/Ventura.png">
+</p>
 
 ## What's working  💻
   
