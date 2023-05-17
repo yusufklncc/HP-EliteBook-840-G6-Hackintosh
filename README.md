@@ -8,13 +8,11 @@
 
 <p align="center">
 <a href="https://www.apple.com/macos/ventura/">
-  <img src="https://img.shields.io/badge/macOS-Ventura-orange" width="195"/> </a>
+  <img src="https://img.shields.io/badge/macOS-Ventura-orange" width="155"/> </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
   <img src="https://img.shields.io/badge/OpenCore-0.9.2-9cf" width="155"/> </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/releases">
   <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
-<a href="https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/issues"> 
-  <img src="https://img.shields.io/github/issues/yusufklncc/HP-EliteBook-840-G6-Hackintosh" width="145"/> </a>
 </p>
 <p align="center">
 <a href="https://t.me/yusufklncc">
