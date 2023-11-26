@@ -4,7 +4,7 @@
   <img src="https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/blob/main/Resources/Laptop/macOS%20HP%20EliteBook%20840%20G6.png">
 </p>
 
-<h4 align="center"> OpenCore config for Hackintosh HP EliteBook 840 G5 </h4>
+<h3 align="center"> OpenCore config for Hackintosh HP EliteBook 840 G5 </h3>
 
 <p align="center">
 <a href="https://www.apple.com/macos/ventura/">
@@ -24,7 +24,8 @@
 <a href="https://www.buymeacoffee.com/yusufklncc">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="150"/> </a>
 
-## Table of Contents
+<h2> Table of Contents</h2>
+
   - [Original Hardware](https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh#original-hardware--)
   - [macOS Update History](https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh#macos-update-history)
   - [What's working](https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh#whats-working--)
@@ -34,7 +35,7 @@
   - [Donate](https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh#-donate---ba%C4%9F%C4%B1%C5%9F-)
   
 
-## Original Hardware  💻
+<h2> Original Hardware  💻</h2>
 
 Type | Spec | Status
 :---------|:---------|:----------
@@ -49,7 +50,7 @@ Microphone  | Intel(R) Smart Sound Technology | ❌
 Touchpad    | Synaptics HID ClickPad - Pointing Device | ✅
 SSD         | Samsung MZVLB256HAHQ-000H1 (PM981) | ❌
 
-## macOS Update History
+<h2> macOS Update History</h2>
 
 - ✅ macOS Ventura 13.3.1
   
@@ -57,7 +58,7 @@ SSD         | Samsung MZVLB256HAHQ-000H1 (PM981) | ❌
   <img src="https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/blob/main/Resources/macOS/Ventura.png">
 </p>
 
-## What's working  💻
+<h2> What's working  💻</h2>
   
 Type | Status
 :---------|:---------
@@ -76,18 +77,18 @@ Shutdown / Reboot   |  ✅
 S3 Sleep / Wake     | ✅
 Fn shortcut keys   |  ✅  
 
-## What's not working  💻
+<h2> What's not working  💻</h2>
 Type | Status
 :---------|:---------
 Microphone   |  ❌  
  
-## What's you have to do  💻
+<h2>What's you have to do 💻</h2>
   
 Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS MacBookPro15,2 and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
       
-## Credits
+<h2>Credits</h2>
   
  - [Dortania](https://dortania.github.io) for developing OpenCore.
  - [Apple](https://www.apple.com) for macOS.
